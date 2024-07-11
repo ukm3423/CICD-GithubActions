@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Maza Ma
+          Maza Ma !
         </a>
       </header>
     </div>
